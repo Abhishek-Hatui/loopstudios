@@ -1,8 +1,9 @@
 # tailwindcss responsive website demo
 
-![clipboard](images/clip1.PNG)
-![clipboard](images/clip2.PNG)
-![clipboard](images/clip3.PNG)
+![loopstudios](images/loop1.PNG)
+![loopstudios](images/loop2.PNG)
+![loopstudios](images/loop3.PNG)
+![loopstudios](images/loop4.PNG)
 
 ## Demo Website
 
